@@ -19,5 +19,15 @@ CandyMaze是一个Unity3D游戏
 
 ***
 
+# RunningBall
+RunningBall为一个unity3D的练手小游戏，设定简单（唯一的实现难度可能就是场景循环了......)
+
+***
+* 游戏目标：操作小球躲避障碍物，尽可能滚远一点！！！
+* 基本操作：A左移，D右移
+* 关于速度：当然是越来越快啦~
+***
+
+
 Unity Package下载地址：链接：https://pan.baidu.com/s/12k8WDzNNMllKFAKiHwxVAQ?pwd=6161 
 提取码：6161 
