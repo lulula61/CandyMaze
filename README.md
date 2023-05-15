@@ -18,3 +18,6 @@ CandyMaze是一个Unity3D游戏
 5.找到游戏出口，游戏结束
 
 ***
+
+Unity Package下载地址：链接：https://pan.baidu.com/s/12k8WDzNNMllKFAKiHwxVAQ?pwd=6161 
+提取码：6161 
