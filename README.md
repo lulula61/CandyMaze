@@ -29,5 +29,5 @@ RunningBall为一个unity3D的练手小游戏，设定简单（唯一的实现�
 ***
 
 
-Unity Package下载地址：链接：https://pan.baidu.com/s/12k8WDzNNMllKFAKiHwxVAQ?pwd=6161 
+Unity Package以及游戏*setup*下载地址：链接：https://pan.baidu.com/s/12k8WDzNNMllKFAKiHwxVAQ?pwd=6161 
 提取码：6161 
